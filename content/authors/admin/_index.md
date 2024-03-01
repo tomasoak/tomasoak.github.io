@@ -40,7 +40,7 @@ education:
     - course: MSc in Computer Science
       institution: Georgia Institute of Technology
       year: 2024
-    - course: Postgraduate Degree in Data Engineering & Big Data
+    - course: PGDip in Data Engineering & Big Data
       institution: University of São Paulo (POLI-USP)
       year: 2023
     - course: BSc in Environment Management
@@ -115,7 +115,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/CarvalhoTomas_Resume.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
