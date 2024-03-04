@@ -1,8 +1,8 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: eNe - enhance Nutritional efficiency
+summary: Translating business requirements into OLTP data model, designing and developing cloud infrastructure and APIs for geospatial products (fertilizer recommendation system, satellite images, and more) for bio-energy farmers and companies.
 tags:
-  - Deep Learning
+  - Software Engineering
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
