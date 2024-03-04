@@ -104,7 +104,7 @@ sections:
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
+      title: 'Certificates'
       subtitle:
       # Date format: https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
@@ -131,15 +131,24 @@ sections:
           organization: dbt Labs
           organization_url: https://getdbt.com/
           title: dbt Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+          url: ''
         - certificate_url: https://drive.google.com/file/d/13klHLHzOoAUnivQUQz6iPHnZrIuXyjHk/view?usp=sharing
           # date_end: '2020-12-21'
           date_start: '2022-09-22'
-          description: ''
+          description: '73 hours'
           icon: datacamp
           organization: DataCamp
           organization_url: https://www.datacamp.com
-          title: Data Engineering (73 hours)
+          title: Data Engineering 
+          url: ''
+        - certificate_url: https://drive.google.com/file/d/1TgvdIAt9so0HaiWghSS-QTpX57NotMbU/view?usp=sharing
+          # date_end: '2020-12-21'
+          date_start: '2023-02-11'
+          description: '108 out of 120'
+          icon: datacamp
+          organization: ETS
+          organization_url: https://www.ets.org/toefl.html
+          title: TOEFL iBT
           url: ''
     design:
       columns: '2'
