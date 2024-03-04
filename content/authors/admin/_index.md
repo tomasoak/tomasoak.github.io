@@ -29,17 +29,16 @@ role: Senior Data Analytics Engineer & Business Intelligence Engineer
 
 # Interests to show in About widget
 interests:
-  - Data Analytics Engineer
-  - Data Engineer & Big Data
+  - Data (Analytics) Engineering & Big Data
   - Business Intelligence & Sustainability
   - GIS & Remote Sensing
 
 # Education to show in About widget
 education:
   courses:
-    - course: MSc in Computer Science
-      institution: Georgia Institute of Technology
-      year: 2024
+    # - course: MSc in Computer Science
+    #   institution: Georgia Institute of Technology
+    #   year: 2024
     - course: PGDip in Data Engineering & Big Data
       institution: University of São Paulo (POLI-USP)
       year: 2023
@@ -121,5 +120,5 @@ social:
 highlight_name: true
 ---
 
-Tomas Carvalho has 7+ years as a Data Analytics & Business Intelligence Engineer. He is passionated about turning data into actionable insights and empowering business decision-making toward efficiency and sustainability. 
+Tomas Carvalho has 7+ years of professional experience as a Data Analytics & Business Intelligence Engineer. He is passionated about turning data into actionable insights and empowering business decision-making toward efficiency and sustainability. 
 {style="text-align: justify;"}
