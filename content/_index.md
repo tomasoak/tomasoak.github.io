@@ -145,7 +145,7 @@ sections:
           # date_end: '2020-12-21'
           date_start: '2023-02-11'
           description: '108 out of 120'
-          icon: datacamp
+          # icon: datacamp
           organization: ETS
           organization_url: https://www.ets.org/toefl.html
           title: TOEFL iBT
