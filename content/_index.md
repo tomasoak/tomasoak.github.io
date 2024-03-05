@@ -196,9 +196,9 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Software Engineer
+        - name: Software Engineering
           tag: Software Engineer
-        - name: Analytics Engineer
+        - name: Analytics Engineering
           tag: Analytics Engineer
         - name: Business Intelligence
           tag: Business Intelligence          

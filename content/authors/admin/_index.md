@@ -38,10 +38,10 @@ education:
   courses:
     - course: MSc in Computer Science
       institution: Georgia Institute of Technology
-      year: 2024
+      year: 2026
     - course: PGDip in Data Engineering & Big Data
       institution: University of São Paulo (POLI-USP)
-      year: 2023
+      year: 2024
     - course: BSc in Environment Management
       institution: University of São Paulo (ESALQ-USP)
       year: 2018
