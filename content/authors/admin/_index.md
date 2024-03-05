@@ -36,9 +36,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    # - course: MSc in Computer Science
-    #   institution: Georgia Institute of Technology
-    #   year: 2024
+    - course: MSc in Computer Science
+      institution: Georgia Institute of Technology
+      year: 2024
     - course: PGDip in Data Engineering & Big Data
       institution: University of São Paulo (POLI-USP)
       year: 2023
@@ -46,26 +46,26 @@ education:
       institution: University of São Paulo (ESALQ-USP)
       year: 2018
 
-# Skills
+Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-# skills:
-#   - name: Technical
-#     items:
-#       - name: Python
-#         description: ''
-#         percent: 80
-#         icon: python
-#         icon_pack: fab
-#       - name: Data Engineering
-#         description: ''
-#         percent: 185
-#         icon: chart-line
-#         icon_pack: fas
-#       - name: SQL
-#         description: ''
-#         percent: 95
-#         icon: database
-#         icon_pack: fas
+skills:
+  - name: Technical
+    items:
+      - name: Python
+        description: ''
+        percent: 80
+        icon: python
+        icon_pack: fab
+      - name: Data Engineering
+        description: ''
+        percent: 185
+        icon: chart-line
+        icon_pack: fas
+      - name: SQL
+        description: ''
+        percent: 95
+        icon: database
+        icon_pack: fas
 #   - name: Hobbies
 #     color: '#eeac02'
 #     color_border: '#f0bf23'

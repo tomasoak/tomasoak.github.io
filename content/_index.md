@@ -196,10 +196,12 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
-        - name: Other
-          tag: Demo
+        - name: Software Engineer
+          tag: Software Engineer
+        - name: Analytics Engineer
+          tag: Analytics Engineer
+        - name: Business Intelligence
+          tag: Business Intelligence          
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
