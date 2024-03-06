@@ -1,16 +1,19 @@
 ---
-title: "An example journal article"
+title: "Quantifying timber illegality risk in the Brazilian forest frontier"
 authors:
 - admin
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
+- França, Caroline
+- Persson, Martin
+- Carvalho, Tomas
+- Lentini, Marco
+# author_notes:
+# - "Equal contribution"
+# - "Equal contribution"
+date: "2023-07-31T00:00:00Z"
+doi: "10.1038/s41893-023-01189-3"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+# publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -18,13 +21,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "Nature Sustainability, 6(11):1-11"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Illegal logging remains widespread across the tropics, leading to extensive forest degradation and trade in illegal timber products. By adapting environmentally extended input–output modelling to timber originating from Brazilian native forests, we demonstrate how distinct illegality risks can be mapped and quantified at species-level across the supply chain. We focus on high-value ipê hardwood from the Amazon state of Pará, a leading producer of timber and contested forest frontier. Data on logging permits and state- and national-level Document of Forest Origin licences are used to estimate illegality risks due to missing or invalid logging permits, overstated ipê yields or discrepancies resulting from missing inflows of legal timber. We find that less than a quarter of all ipê entering supply chains between 2009 and 2019 is risk-free and highlight diversified strategies for the laundering of illegal timber across geographies. While legality does not ensure sustainability, this information can be leveraged to this end by supporting improved implementation and enforcement of forest regulations.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: ''
 
 tags:
 - Source Themes
@@ -33,19 +36,19 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: ''
+url_code: 'https://github.com/carolsrto/illegality-risk-ns'
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: 'https://www.nature.com/articles/s41893-023-01189-3'
 url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 'Image credit: [**Eutah Mizushima**](https://unsplash.com/photos/river-between-trees-under-blue-sky-OWwK_0_EnxY)'
   focal_point: ""
   preview_only: false
 
