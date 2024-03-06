@@ -1,11 +1,10 @@
 ---
 title: "Quantifying timber illegality risk in the Brazilian forest frontier"
 authors:
-- admin
-- França, Caroline
-- Persson, Martin
-- Carvalho, Tomas
-- Lentini, Marco
+- Caroline França
+- Martin Persson
+- Tomas Carvalho
+- Marco Lentini
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
