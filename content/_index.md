@@ -280,8 +280,8 @@ sections:
       #   - 'Wednesday 09:00 to 10:00'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '-22.71'  
-        longitude: '-47.70'  
+        latitude: '-22.7261602'
+        longitude: '-47.6454611'  
         zoom: 6
       # contact_links:
       #   - icon: twitter
