@@ -81,7 +81,7 @@ sections:
           # company_logo: org-x
           location: Brazil - Remote
           date_start: '2023-08-01'
-          date_end: '2024-02-28'
+          date_end: '2024-03-31'
           # description: Taught electronic engineering and researched semiconductor physics.
         - title: Data Scientist
           company: Stockholm Environment Institute (SEI)
