@@ -76,7 +76,7 @@ sections:
           #     * Modelling
           #     * Deploying
         - title: Software Engineer
-          company: CNPJq
+          company: CNPq
           company_url: ''
           # company_logo: org-x
           location: Brazil - Remote
