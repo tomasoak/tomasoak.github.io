@@ -76,12 +76,12 @@ sections:
           #     * Modelling
           #     * Deploying
         - title: Software Engineer
-          company: CNPq
+          company: OnAgri
           company_url: ''
           # company_logo: org-x
           location: Brazil - Remote
           date_start: '2023-08-01'
-          date_end: '2024-03-31'
+          date_end: '2024-04-30'
           # description: Taught electronic engineering and researched semiconductor physics.
         - title: Data Scientist
           company: Stockholm Environment Institute (SEI)
