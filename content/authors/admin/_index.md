@@ -120,5 +120,5 @@ social:
 highlight_name: true
 ---
 
-Tomas Carvalho has 7+ years of professional experience as a Data Analytics & Business Intelligence Engineer. He is passionated about turning data into actionable insights and empowering business decision-making toward efficiency, revenue growth and sustainability. 
+Tomas Carvalho has 7+ years of professional experience as a Data Analytics & Business Intelligence Engineer. He is passionated about turning data into actionable insights and empowering business decision-making toward operational efficiency and sustainability.
 {style="text-align: justify;"}
