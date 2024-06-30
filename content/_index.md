@@ -103,8 +103,8 @@ sections:
           company_url: ''
           # company_logo: org-x
           location: Brazil - In-person
-          date_start: '2018-06-15'
-          date_end: '2016-11-01'
+          date_start: '2016-11-01'
+          date_end: '2018-06-15'
           # description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
