@@ -81,7 +81,7 @@ sections:
           # company_logo: org-x
           location: Brazil - Remote
           date_start: '2023-08-01'
-          date_end: '2024-04-30'
+          date_end: '2024-06-30'
           # description: Taught electronic engineering and researched semiconductor physics.
         - title: Data Scientist
           company: Stockholm Environment Institute (SEI)
@@ -98,6 +98,13 @@ sections:
           location: Brazil - In-person
           date_start: '2018-06-18'
           date_end: '2021-05-07'
+        - title: Geospatial Data Analyst - Intern
+          company: Imaflora
+          company_url: ''
+          # company_logo: org-x
+          location: Brazil - In-person
+          date_start: '2018-06-15'
+          date_end: '2016-11-01'
           # description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'

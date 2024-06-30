@@ -29,16 +29,16 @@ role: Senior Data Analytics Engineer & BI Engineer
 
 # Interests to show in About widget
 interests:
-  - Data (Analytics) Engineering & Big Data
-  - Business Intelligence & Sustainability
-  - GIS & Remote Sensing
+  - Data Analytics Engineering & Big Data
+  - Business Intelligence & Decision Making
+  - Geospatial Data Science & Analytics
 
 # Education to show in About widget
 education:
   courses:
     - course: MSc in Computer Science
       institution: Georgia Institute of Technology
-      year: 2026
+      year: 2027
     - course: PGDip in Data Engineering & Big Data
       institution: University of São Paulo (POLI-USP)
       year: 2024
