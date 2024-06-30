@@ -98,14 +98,14 @@ sections:
           location: Brazil - In-person
           date_start: '2018-06-18'
           date_end: '2021-05-07'
-        - title: Geospatial Data Analyst - Intern
+        - title: Geospatial Data Analyst
           company: Imaflora
           company_url: ''
           # company_logo: org-x
           location: Brazil - In-person
           date_start: '2016-11-01'
           date_end: '2018-06-15'
-          # description: Taught electronic engineering and researched semiconductor physics.
+          description: Internship
     design:
       columns: '2'
   - block: accomplishments
