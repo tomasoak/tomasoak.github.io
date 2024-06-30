@@ -42,7 +42,7 @@ education:
     - course: PGDip in Data Engineering & Big Data
       institution: University of São Paulo (POLI-USP)
       year: 2024
-    - course: BSc in Environment Management
+    - course: BSc in Environment Sciences
       institution: University of São Paulo (ESALQ-USP)
       year: 2018
 
