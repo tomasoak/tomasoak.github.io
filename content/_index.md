@@ -99,7 +99,7 @@ sections:
           date_start: '2018-06-18'
           date_end: '2021-05-07'
           # description: Taught electronic engineering and researched semiconductor physics.
-          - title: Geospatial Data Analyst
+        - title: Geospatial Data Analyst
           company: Imaflora
           company_url: ''
           # company_logo: org-x
