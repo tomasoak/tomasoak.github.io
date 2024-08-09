@@ -76,7 +76,7 @@ sections:
           #     * Modelling
           #     * Deploying
         - title: Software Engineer
-          company: CNPq
+          company: OnAgri
           company_url: ''
           # company_logo: org-x
           location: Brazil - Remote
