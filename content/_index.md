@@ -99,6 +99,14 @@ sections:
           date_start: '2018-06-18'
           date_end: '2021-05-07'
           # description: Taught electronic engineering and researched semiconductor physics.
+          - title: Geospatial Data Analyst
+          company: Imaflora
+          company_url: ''
+          # company_logo: org-x
+          location: Brazil - In-person
+          date_start: '2016-11-01'
+          date_end: '2018-06-15'
+          description: Internship
     design:
       columns: '2'
   - block: accomplishments
@@ -114,6 +122,15 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - certificate_url: https://www.credly.com/badges/64c1e6a1-6ab3-439b-ba75-52849b005870
+          date_end: ''
+          date_start: '2024-07-12'
+          description: ''
+          icon: tableau
+          organization: Tableau
+          organization_url: https://www.tableau.com/
+          title: Tableau Desktop Specialist
+          url: ''
         - certificate_url: https://www.credly.com/badges/1ddbb74c-9730-43c9-bbb8-1f6534116856
           date_end: ''
           date_start: '2023-09-09'
