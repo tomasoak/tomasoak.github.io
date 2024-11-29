@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Analytics Engineer & BI Engineer
+role: Analytics Engineer | Data Engineer
 
 # Organizations/Affiliations to show in About widget
 # organizations:
@@ -36,13 +36,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: MSc in Computer Science
-      institution: Georgia Institute of Technology
-      year: 2027
     - course: PGDip in Data Engineering & Big Data
       institution: University of São Paulo (POLI-USP)
       year: 2024
-    - course: BSc in Environment Sciences
+    - course: BSc in Environment Management
       institution: University of São Paulo (ESALQ-USP)
       year: 2018
 
@@ -120,5 +117,5 @@ social:
 highlight_name: true
 ---
 
-Tomas Carvalho has 7+ years of professional experience as a Data Analytics & Business Intelligence Engineer. He is passionated about turning data into actionable insights and empowering business decision-making towards operational efficiency and sustainability.
+Tomas Carvalho has 8+ years of professional experience as a Data Analytics Engineer. He is passionated about turning data into actionable insights and empowering business decision-making towards operational efficiency and sustainability.
 {style="text-align: justify;"}

@@ -62,13 +62,19 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Analytics Engineer
+          company: Gridwise
+          company_url: 'https://gridwise.io'
+          # company_logo: org-gc
+          location: USA - Remote
+          date_start: '2024-07-23'
+          date_end: ''
         - title: Senior Business Intelligence Developer
           company: Greenpeace International
           company_url: ''
-          # company_logo: org-gc
           location: The Netherlands - Remote
           date_start: '2023-06-01'
-          date_end: ''
+          date_end: '2024-07-16'
           # description: |2-
           #     Responsibilities include:
 
@@ -85,7 +91,7 @@ sections:
           # description: Taught electronic engineering and researched semiconductor physics.
         - title: Data Scientist
           company: Stockholm Environment Institute (SEI)
-          company_url: ''
+          company_url: 'https://www.sei.org'
           # company_logo: org-x
           location: Stockholm (Sweden) - Hybrid
           date_start: '2021-05-31'
