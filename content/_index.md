@@ -67,14 +67,14 @@ sections:
           company_url: 'https://gridwise.io'
           # company_logo: org-gc
           location: USA - Remote
-          date_start: '2024-07-23'
+          date_start: '2024-09-23'
           date_end: ''
         - title: Senior Business Intelligence Developer
           company: Greenpeace International
-          company_url: ''
+          company_url: 'https://www.greenpeace.org/international/'
           location: The Netherlands - Remote
           date_start: '2023-06-01'
-          date_end: '2024-07-16'
+          date_end: '2024-09-16'
           # description: |2-
           #     Responsibilities include:
 
@@ -99,20 +99,12 @@ sections:
           # description: Taught electronic engineering and researched semiconductor physics.
         - title: Geospatial Data Analyst
           company: Imaflora
-          company_url: ''
+          company_url: 'https://www.imaflora.org'
           # company_logo: org-x
           location: Brazil - In-person
           date_start: '2018-06-18'
           date_end: '2021-05-07'
           # description: Taught electronic engineering and researched semiconductor physics.
-        - title: Geospatial Data Analyst
-          company: Imaflora
-          company_url: ''
-          # company_logo: org-x
-          location: Brazil - In-person
-          date_start: '2016-11-01'
-          date_end: '2018-06-15'
-          description: Internship
     design:
       columns: '2'
   - block: accomplishments
