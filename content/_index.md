@@ -212,9 +212,9 @@ sections:
         - name: All
           tag: '*'
         - name: Software Engineering
-          tag: Software Engineer
+          tag: Software Engineering
         - name: Analytics Engineering
-          tag: Analytics Engineer
+          tag: Analytics Engineering
         - name: Business Intelligence
           tag: Business Intelligence          
     design:
