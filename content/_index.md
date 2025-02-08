@@ -168,7 +168,7 @@ sections:
     design:
       columns: '2'
   # - block: collection
-  #   id: posts
+  #   id: blog
   #   content:
   #     title: Recent Posts
   #     subtitle: ''
